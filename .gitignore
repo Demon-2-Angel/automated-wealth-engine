@@ -1,0 +1,8 @@
+# Environment & sensitive credentials
+*.env
+config.js
+credentials.json
+
+# OS files
+.DS_Store
+Thumbs.db
